@@ -1,0 +1,111 @@
+[
+    {
+       "name":"Street Fighter",
+       "genero":"Videojuego de Peleas",
+       "imagen": "https://www.lacasadeel.net/wp-content/uploads/2022/01/street-fighter.png",
+       "plataformas":{
+         "name":"Xbox",
+         "consola":{
+            "name":"Play "
+         },
+         "name": "Emuladores para PC"   
+      }
+    },
+    {
+       "name":"Fifa",
+       "genero":"videojuego de deportes",
+       "imagen":"https://depor.com/resizer/gMvssGfxsXDND2EamY9RiGWWP3k=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/R3SMVRTPZNDUXMWO7QVC5WWF5Q.jpg",
+       "plataformas":{
+          "name":"xbox",
+          "consola":{
+             "name":"Xbox Series X"
+          },
+          "name": "play",
+           "name": "Xbox Sereis X"
+          
+       }
+    },
+        {
+       "name":"Pacman",
+       "genero":"Videojuego clasico",
+       "imagen":"https://www2.minijuegosgratis.com/v3/games/thumbnails/2399_1.jpg",
+       "plataformas":{
+         "name":"Nintendo",
+         "consola":{
+            "name":"Super Nintendo"
+         },
+         "name": "Nintendo 64"   
+      }
+    },
+     
+       {
+       "name":"Super Mario Bros",
+       "genero":"Videojuego de aventura",
+       "imagen":"https://hb.imgix.net/9b7940995745db889e92ce9fb1f9396c7b5e8ebc.jpg?auto=compress,format&fit=crop&h=353&w=616&s=0ab9552cc3682f8b15e8538e2ca444cc",
+       "plataformas":{
+          "name":"Nintendo",
+          "consola":{
+             "name":"Super Nintendo"
+          },
+          "name": "Nintendo 64"   
+       }
+    },
+       {
+       "name":"Tetris",
+       "genero":"Videojuego Clasico",
+       "imagen":"https://d7lju56vlbdri.cloudfront.net/var/ezwebin_site/storage/images/_aliases/img_1col/multimedia/fotografias/el-tetris-ya-es-treintanero/3298155-1-esl-MX/El-Tetris-ya-es-treintanero.jpg",
+       "plataformas":{
+          "name":"Nintendo",
+          "consola":{
+             "name":"Super Nintendo"
+          },
+          "name": "Nintendo 64"  
+       }
+    },
+
+
+    {
+      "name":"Metal Slug",
+      "genero":"Videojuego Clasico",
+      "imagen":"https://www.milenio.com/uploads/media/2020/06/10/metal-slug-clasico-juegos-arcade_29_0_1085_675.jpg",
+      "plataformas":{
+         "name":"Neogeo Sistems ",
+         "consola":{
+            "name":"Neogeo"
+         },
+         "name": "Neogeo Sistems"   
+      }
+   },
+
+   {
+      "name":"Donkey Kong",
+      "genero":"Videojuego Clasico",
+      "imagen":"https://images.crazygames.com/games/donkey-kong-returns/cover-1630234361535.png?auto=format,compress&q=75&cs=strip",
+      "plataformas":{
+         "name":"Super Nintendo",
+         "consola":{
+            "name":"NES"
+         },
+         "name": "Nintendo Sistems"   
+      }
+   },
+
+
+   {
+      "name":"Nier: Automata",
+      "genero":"Videojuego de Acción",
+      "imagen":"https://imagenes.20minutos.es/files/image_656_370/uploads/imagenes/2019/09/03/1051201.jpg",
+      "plataformas":{
+         "name":"PS",
+         "consola":{
+            "name":"PS4"
+         },
+         "name": "PS4"  
+      }
+   }
+
+
+
+ ]
+
+

@@ -1,0 +1,32 @@
+body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(74,199,224,0.8631827731092436) 0%, rgba(164,217,199,1) 80%);
+}
+
+.principal img{
+    height: 50%;
+    width: 50%;
+}
+
+
+
+.principal h3{
+    color:rgb(47, 104, 160)
+}
+
+.principal{
+
+    border: 5px gray dashed;
+    margin-bottom: 2%;
+    width: 50%;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    margin-left: 25%;
+    border-radius: 10%;
+}
+
+
+.titulo{
+    text-align: center;
+}
